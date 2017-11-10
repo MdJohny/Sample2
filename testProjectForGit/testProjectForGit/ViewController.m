@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Hellow world");
+    
+    NSLog(@"added another line");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
